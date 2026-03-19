@@ -19,7 +19,10 @@
 - Performed data cleaning operations like Handling missing values,Removing duplicate records and data type correction.
 - Find and Replaced Marital status and Gender to understandable form.
 - Inserted Pivot tables for anlayzing the bikes purchased based on commute distance,Average income per purchase,Customer age bracket.
-- Created interactive dashboards in MS Excel including slicers for interactive filtering (Education,Region,Marital status),Pivot charts(line chart,clustered column charts). 
+- Created interactive dashboards in MS Excel including slicers for interactive filtering (Education,Region,Marital status),Pivot charts(line chart,clustered column charts).
+
+## Dashboard:
+<img width="1068" height="693" alt="Bike sales dashboard - Excel 19-03-2026 10_28_52 AM" src="https://github.com/user-attachments/assets/4ca06c9c-f511-4c94-adad-1c12680fbe18" />
 
 ## Project Insight
 - Region-wise and education-wise purchase count.
